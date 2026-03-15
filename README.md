@@ -33,13 +33,6 @@ cd [FOLDER]\SiteForge
 python main.py
 ```
 
-## Build an EXE later
-
-```powershell
-cd [FOLDER]\SiteForge
-build_exe.bat
-```
-
 ## Notes
 
 - URL import works best on landing pages, portfolios, and other content-heavy pages with clean HTML.
