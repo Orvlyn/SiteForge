@@ -22,21 +22,21 @@ SiteForge is a Python desktop app for building and tweaking website layouts with
 ## Install
 
 ```powershell
-cd F:\Scripts\SiteForge
+cd [FOLDER]\SiteForge
 python -m pip install -r requirements.txt
 ```
 
 ## Run
 
 ```powershell
-cd F:\Scripts\SiteForge
+cd [FOLDER]\SiteForge
 python main.py
 ```
 
 ## Build an EXE later
 
 ```powershell
-cd F:\Scripts\SiteForge
+cd [FOLDER]\SiteForge
 build_exe.bat
 ```
 
